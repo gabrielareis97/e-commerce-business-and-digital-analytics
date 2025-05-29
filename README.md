@@ -9,12 +9,14 @@ Este projeto tem como objetivo analisar dados de um e-commerce, integrando infor
   - Dados de marketing digital (base GA4 da Google Merchandise Store).
 - Responder perguntas estratégicas que impactam vendas, marketing e operações.
 
-## 🔍 Perguntas de Negócio
-1. Quais canais de marketing geram mais tráfego e mais conversões?
-2. O aumento de tráfego no site gera aumento nas vendas?
-3. Quais produtos ou categorias têm melhor desempenho em vendas e faturamento?
-4. Quais regiões apresentam maiores volumes de vendas e mais problemas operacionais (atrasos, cancelamentos, baixa satisfação)?
-5. Como está o desempenho do funil de conversão do site? Onde os usuários desistem?
+## 🧠 Perguntas de Negócio
+
+1. [Quais canais de marketing estão trazendo mais usuários para o site?](./respostas.md#pergunta-1)
+2. [O aumento de tráfego no site gera aumento nas vendas?](./respostas.md#pergunta-2)
+3. [Quais produtos ou categorias têm melhor desempenho em vendas e faturamento?](./respostas.md#pergunta-3)
+4. [Quais regiões apresentam mais vendas e mais problemas operacionais?](./respostas.md#pergunta-4)
+5. [Como está o desempenho do funil de conversão do site?](./respostas.md#pergunta-5)
+
 
 ## 🔗 Dados Utilizados
 - **Dados Operacionais:** [Dataset Olist no Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
