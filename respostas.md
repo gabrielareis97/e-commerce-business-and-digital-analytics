@@ -1,6 +1,6 @@
 ## 📊 Dashboard – Análise de Canais de Aquisição (Looker Studio + GA4)
 
-
+![Dashboard Overview](Question1.png)
 
 Este dashboard foi desenvolvido no Looker Studio, conectado diretamente ao Google Analytics 4 (conta demo da Google Merchandise Store).
 
