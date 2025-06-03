@@ -1,5 +1,3 @@
-## 🔥 Análise do Funil de Conversão (SQL + Looker Studio)
-
 ![Dashboard Overview](images/analise-funil-conversao.png)
 
 ### 🚩 Observações Gerais:
